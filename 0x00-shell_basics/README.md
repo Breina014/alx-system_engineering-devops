@@ -1,1 +1,1 @@
-displaying long,user ID and hidden
+moving file
