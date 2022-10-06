@@ -1,1 +1,1 @@
-set permission
+sets mode
